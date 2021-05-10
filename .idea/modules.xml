@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/tonis.iml" filepath="$PROJECT_DIR$/.idea/tonis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tonies/.idea/tonies.iml" filepath="$PROJECT_DIR$/../tonies/.idea/tonies.iml" />
     </modules>
   </component>
 </project>
